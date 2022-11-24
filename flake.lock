@@ -18,14 +18,17 @@
     "graphia": {
       "flake": false,
       "locked": {
-        "lastModified": 1669304130,
-        "narHash": "sha256-2ElaJ7xDZqZihJcYRLaRhuU3Kaz7uKEMJl7quNwNfNk=",
-        "path": "/home/ben/graphia.nix/graphia",
-        "type": "path"
+        "lastModified": 1669294472,
+        "narHash": "sha256-lCX0cG2JIP2iy6oKJDn7zVf3/ijohEwyiCADptA5Eac=",
+        "owner": "graphia-app",
+        "repo": "graphia",
+        "rev": "407e548d7b01d89ed593f768132548d64f66a55e",
+        "type": "github"
       },
       "original": {
-        "path": "/home/ben/graphia.nix/graphia",
-        "type": "path"
+        "owner": "graphia-app",
+        "repo": "graphia",
+        "type": "github"
       }
     },
     "nixpkgs": {
