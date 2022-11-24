@@ -4,6 +4,7 @@
   inputs.nixpkgs.url = "github:nixos/nixpkgs/release-22.05";
   inputs.flake-utils.url = "github:numtide/flake-utils";
   inputs.graphia.url = "path:/opt/exp/nixpkgs/graphia";
+  inputs.graphia.flake = false;
 
   outputs = { self, nixpkgs, flake-utils, graphia }:
     flake-utils.lib.eachDefaultSystem (system: 

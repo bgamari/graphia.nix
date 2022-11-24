@@ -1,4 +1,4 @@
-{ stdenv, lib, src, cmake,
+{ stdenv, lib, src, cmake
 , wrapQtAppsHook, qtbase, qtwebengine, qtdeclarative
 }:
 
