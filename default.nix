@@ -1,5 +1,5 @@
 { stdenv, lib, src, cmake
-, wrapQtAppsHook, qtbase, qtwebengine, qtdeclarative
+, wrapQtAppsHook, qtbase, qtwebengine, qtdeclarative, qtsvg
 }:
 
 stdenv.mkDerivation rec {
@@ -16,6 +16,7 @@ stdenv.mkDerivation rec {
     qtbase
     qtwebengine
     qtdeclarative
+    qtsvg
   ];
 
   meta = with lib; {

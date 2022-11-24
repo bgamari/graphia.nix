@@ -18,13 +18,13 @@
     "graphia": {
       "flake": false,
       "locked": {
-        "lastModified": 1669299460,
+        "lastModified": 1669304130,
         "narHash": "sha256-2ElaJ7xDZqZihJcYRLaRhuU3Kaz7uKEMJl7quNwNfNk=",
-        "path": "/opt/exp/nixpkgs/graphia",
+        "path": "/home/ben/graphia.nix/graphia",
         "type": "path"
       },
       "original": {
-        "path": "/opt/exp/nixpkgs/graphia",
+        "path": "/home/ben/graphia.nix/graphia",
         "type": "path"
       }
     },
