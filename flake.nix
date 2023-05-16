@@ -1,7 +1,7 @@
 {
   description = "Graphia";
 
-  inputs.nixpkgs.url = "github:nixos/nixpkgs/release-22.05";
+  inputs.nixpkgs.url = "github:nixos/nixpkgs/release-22.11";
   inputs.flake-utils.url = "github:numtide/flake-utils";
   inputs.graphia.url = "github:graphia-app/graphia";
   inputs.graphia.flake = false;

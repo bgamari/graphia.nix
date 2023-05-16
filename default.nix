@@ -12,12 +12,17 @@ stdenv.mkDerivation rec {
     cmake
     wrapQtAppsHook
   ];
+
   buildInputs = [
     qtbase
     qtwebengine
     qtdeclarative
     qtsvg
   ];
+
+  postPatch = ''
+    substituteInPlace source/shared/utils/failurereason.cpp --replace GIT_SHA \"\"
+  '';
 
   meta = with lib; {
     # never built on Hydra https://hydra.nixos.org/job/nixpkgs/trunk/graphia.x86_64-darwin
