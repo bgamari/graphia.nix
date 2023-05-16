@@ -18,11 +18,11 @@
     "graphia": {
       "flake": false,
       "locked": {
-        "lastModified": 1669294472,
-        "narHash": "sha256-lCX0cG2JIP2iy6oKJDn7zVf3/ijohEwyiCADptA5Eac=",
+        "lastModified": 1684252783,
+        "narHash": "sha256-6Wh3wYElYn+9QrgdPKCB0VVGfkz10UYytWWOaUfGJF4=",
         "owner": "graphia-app",
         "repo": "graphia",
-        "rev": "407e548d7b01d89ed593f768132548d64f66a55e",
+        "rev": "a840ce03d37e57051ca25b45f331f54f744a2518",
         "type": "github"
       },
       "original": {
