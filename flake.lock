@@ -5,11 +5,11 @@
         "systems": "systems"
       },
       "locked": {
-        "lastModified": 1681202837,
-        "narHash": "sha256-H+Rh19JDwRtpVPAWp64F+rlEtxUWBAQW28eAi3SRSzg=",
+        "lastModified": 1689068808,
+        "narHash": "sha256-6ixXo3wt24N/melDWjq70UuHQLxGV8jZvooRanIHXw0=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "cfacdce06f30d2b68473a46042957675eebb3401",
+        "rev": "919d646de7be200f3bf08cb76ae1f09402b6f9b4",
         "type": "github"
       },
       "original": {
@@ -21,11 +21,11 @@
     "graphia": {
       "flake": false,
       "locked": {
-        "lastModified": 1684252783,
-        "narHash": "sha256-6Wh3wYElYn+9QrgdPKCB0VVGfkz10UYytWWOaUfGJF4=",
+        "lastModified": 1692107119,
+        "narHash": "sha256-erVuiV/vP/BQ7tYmXH4HkEHA+29wrW5YCbMPWqeaCVg=",
         "owner": "graphia-app",
         "repo": "graphia",
-        "rev": "a840ce03d37e57051ca25b45f331f54f744a2518",
+        "rev": "5337b9e963e166dcbeda2e88d0b8133429585d1c",
         "type": "github"
       },
       "original": {
@@ -36,16 +36,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1684235118,
-        "narHash": "sha256-JD7NwYwGvKI0ggjkYGV+H4splbxNkvYukXmY98ezVJM=",
+        "lastModified": 1692631045,
+        "narHash": "sha256-I/JUQYkHF3zLhYCzS2VUTjBHXpbIVShE/1Tut/pyQ6o=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "0654010f014b029b9bb82fe2e9e95da29fa2ec92",
+        "rev": "1c7916f8d3545c706cbadb7abacf37054653d384",
         "type": "github"
       },
       "original": {
         "owner": "nixos",
-        "ref": "release-22.11",
+        "ref": "release-23.05",
         "repo": "nixpkgs",
         "type": "github"
       }
